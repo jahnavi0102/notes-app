@@ -1,6 +1,6 @@
-notes/_pycache_/
-notesapp/_pycache_/
-users/_pycache_/
+notes/_pycache_
+notesapp/_pycache_
+users/_pycache_
 
-users/migrations/
-notes/migrations/
+users/migrations
+notes/migrations
